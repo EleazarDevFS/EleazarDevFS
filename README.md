@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
-<!--- :school: I am a `Student` at Licenciatura en Informática at [Universidad de la Sierra Sur](https://www.unsis.edu.mx/web/).-->
+<!--- :school: I am `Student` at Licenciatura en Informática at [Universidad de la Sierra Sur](https://www.unsis.edu.mx/web/).-->
 - :school: I am a Licenciado en Informática by [Universidad de la Sierra Sur](https://www.unsis.edu.mx/web/).
 - :technologist: I love using Software as a solution for every `Problem`.
 	- :computer: I am a competitive programmer at `Backend` & `Frontend`.
